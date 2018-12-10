@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
 
-# Missing Frace Finder by Andrew Fan
-# Hastily thrown together on Dec 9, 2018
-# Not guaranteed to work; use at your own risk
+# ----------------------------------------------------------------------
+# Missing Brace Finder
+#
+# Saving precious development time by parsing source code for unbalanced
+# braces and brackets.
+#
+# Authors:
+#   Andrew Fan
+#   Icemourn
+#
+# Last updated:
+#    9 Dec 2018
+#
 # MIT License
+# ----------------------------------------------------------------------
 
 # Usage:
 # mbf.py <filename>
